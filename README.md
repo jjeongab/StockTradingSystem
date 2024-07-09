@@ -39,8 +39,7 @@ To run the Stock Trading System application, follow these steps:
 1. Clone repository.
    
    ```bash
-   git clone https://github.com/NalbandyanElmira/StockTradingSystem
-   ```
+   git clone git@github.com:jjeongab/StockTradingSystem.git
 
    ```bash
    cd StockTradingSystem/build

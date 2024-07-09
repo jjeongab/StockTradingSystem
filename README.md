@@ -40,7 +40,7 @@ To run the Stock Trading System application, follow these steps:
    
    ```bash
    git clone git@github.com:jjeongab/StockTradingSystem.git
-
+   ```
    ```bash
    cd StockTradingSystem/build
    ```
